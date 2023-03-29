@@ -21,8 +21,8 @@ public class SqlParserConfigSample {
 
     public static void main(String[] args) throws Exception {
         SqlParserConfigSample sample = new SqlParserConfigSample();
-        sample.unquotedCasing();
-        sample.quotedCasing();
+//        sample.unquotedCasing();
+//        sample.quotedCasing();
         sample.identifierMaxLength();
         sample.quoting();
     }

@@ -72,7 +72,7 @@ public class Calculator implements CalculatorConstants {
     throw new Error("Missing return statement in function");
   }
 
-// 获取字符串
+// 获取字符�?
   final public double getNumber() throws ParseException {
     double number;
     Token t;

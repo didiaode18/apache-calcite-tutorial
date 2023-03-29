@@ -9,7 +9,7 @@ k表示的是每次向前探索(lookahead)k个终结符
 
 [语法文件](https://javacc.org/javaccgrm)
 
-
+编译 mvn javacc:javacc
 ## 语法描述文件
 ```
 options {

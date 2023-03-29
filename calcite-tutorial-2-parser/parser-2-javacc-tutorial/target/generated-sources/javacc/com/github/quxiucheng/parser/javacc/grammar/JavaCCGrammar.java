@@ -8,7 +8,7 @@ public class JavaCCGrammar implements JavaCCGrammarConstants {
        grammar.function1();
     }
 
-// 定义java代码块
+// 定义java代码�?
   final public void javaCodeDemo() throws ParseException {
         int i = 0;
         System.out.println(i);
@@ -16,12 +16,12 @@ public class JavaCCGrammar implements JavaCCGrammarConstants {
 
 // 函数
   final public void function1() throws ParseException {
-    // 定义局部变量
+    // 定义�?部变�?
     int i=0;
      {if (true) return;}
   }
 
-// 返回值
+// 返回�?
   final public double function2() throws ParseException {
     int i=0;
      {if (true) return i;}

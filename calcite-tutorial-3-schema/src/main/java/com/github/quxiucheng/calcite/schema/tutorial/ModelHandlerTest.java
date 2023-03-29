@@ -2,7 +2,7 @@ package com.github.quxiucheng.calcite.schema.tutorial;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
+
 import org.apache.calcite.model.JsonRoot;
 
 import java.io.File;
